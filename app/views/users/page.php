@@ -14,7 +14,7 @@
 	</head>
 	<body>
 		<h1>User List</h1>
-		<div class="el_meu_estil">
+		<div class="myStyle">
 			<ul>
 				<?php
 					foreach ($info_guests as $row) {
